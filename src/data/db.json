@@ -1,0 +1,71 @@
+{
+  "posts": [
+    {
+      "title": "Welcome to Json Server",
+      "comments": "12",
+      "date": "2020-03-13",
+      "description": " Lorem ipsum dolor, sit amet consectetur adipisicing elit. Suscipit, ab! Nemo, sit a velit esse obcaecati nulla incidunt eveniet nihil similique inventore enim, repellendus, magni blanditiis doloribus consequatur autem facilis. Praesentium quos error nam quo in tempore corrupti? Placeat, velit mollitia ipsum illo, nesciunt quod provident ullam amet nulla incidunt asperiores doloribus omnis? Cum fugit nostrum modi dolores distinctio nihil quaerat assumenda iusto. Sint nemo officiis dolore magnam, tempora consequatur doloribus adipisci, debitis accusamus aspernatur in ipsum esse, ullam vitae! Ipsum eos sed est voluptatem assumenda sit! Hic asperiores deleniti, saepe enim in vel alias? Minus ratione molestias voluptatum consectetur!",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "title": "Learning React Native Next",
+      "description": " Lorem ipsum dolor, sit amet consectetur adipisicing elit. Suscipit, ab! Nemo, sit a velit esse obcaecati nulla incidunt eveniet nihil similique inventore enim, repellendus, magni blanditiis doloribus consequatur autem facilis. Praesentium quos error nam quo in tempore corrupti? Placeat, velit mollitia ipsum illo, nesciunt quod provident ullam amet nulla incidunt asperiores doloribus omnis? Cum fugit nostrum modi dolores distinctio nihil quaerat assumenda iusto. Sint nemo officiis dolore magnam, tempora consequatur doloribus adipisci, debitis accusamus aspernatur in ipsum esse, ullam vitae! Ipsum eos sed est voluptatem assumenda sit! Hic asperiores deleniti, saepe enim in vel alias? Minus ratione molestias voluptatum consectetur!",
+      "comments": 83,
+      "date": "2020-03-13"
+    },
+    {
+      "id": 3,
+      "title": "Quick Links On Testing",
+      "description": " Lorem ipsum dolor, sit amet consectetur adipisicing elit. Suscipit, ab! Nemo, sit a velit esse obcaecati nulla incidunt eveniet nihil similique inventore enim, repellendus, magni blanditiis doloribus consequatur autem facilis. Praesentium quos error nam quo in tempore corrupti? Placeat, velit mollitia ipsum illo, nesciunt quod provident ullam amet nulla incidunt asperiores doloribus omnis? Cum fugit nostrum modi dolores distinctio nihil quaerat assumenda iusto. Sint nemo officiis dolore magnam, tempora consequatur doloribus adipisci, debitis accusamus aspernatur in ipsum esse, ullam vitae! Ipsum eos sed est voluptatem assumenda sit! Hic asperiores deleniti, saepe enim in vel alias? Minus ratione molestias voluptatum consectetur!",
+      "comments": 712,
+      "date": "2020-03-13"
+    },
+    {
+      "title": "Second Commit",
+      "comments": "4336346",
+      "date": "2020-03-13",
+      "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Suscipit, ab! Nemo, sit a velit esse obcaecati nulla incidunt eveniet nihil similique inventore enim, repellendus, magni blanditiis doloribus consequatur autem facilis. Praesentium quos error nam quo in tempore corrupti? Placeat, velit mollitia ipsum illo, nesciunt quod provident ullam amet nulla incidunt asperiores doloribus omnis? Cum fugit nostrum modi dolores distinctio nihil quaerat assumenda iusto. Sint nemo officiis dolore magnam, tempora consequatur doloribus adipisci, debitis accusamus aspernatur in ipsum esse, ullam vitae! Ipsum eos sed est voluptatem assumenda sit! Hic asperiores deleniti, saepe enim in vel alias? Minus ratione molestias voluptatum consectetur!\",\n",
+      "id": 6
+    },
+    {
+      "title": "Welcome to Json Server Update",
+      "comments": 2332,
+      "date": "2020-03-13",
+      "description": " Lorem ipsum dolor, sit amet consectetur adipisicing elit. Suscipit, ab! Nemo, sit a velit esse obcaecati nulla incidunt eveniet nihil similique inventore enim, repellendus, magni blanditiis doloribus consequatur autem facilis. Praesentium quos error nam quo in tempore corrupti? Placeat, velit mollitia ipsum illo, nesciunt quod provident ullam amet nulla incidunt asperiores doloribus omnis? Cum fugit nostrum modi dolores distinctio nihil quaerat assumenda iusto. Sint nemo officiis dolore magnam, tempora consequatur doloribus adipisci, debitis accusamus aspernatur in ipsum esse, ullam vitae! Ipsum eos sed est voluptatem assumenda sit! Hic asperiores deleniti, saepe enim in vel alias? Minus ratione molestias voluptatum consectetur!",
+      "id": 7
+    },
+    {
+      "title": "Welcome to Json Server",
+      "comments": "656",
+      "date": "2020-10-25",
+      "description": " Lorem ipsum dolor, sit amet consectetur adipisicing elit. Suscipit, ab! Nemo, sit a velit esse obcaecati nulla incidunt eveniet nihil similique inventore enim, repellendus, magni blanditiis doloribus consequatur autem facilis. Praesentium quos error nam quo in tempore corrupti? Placeat, velit mollitia ipsum illo, nesciunt quod provident ullam amet nulla incidunt asperiores doloribus omnis? Cum fugit nostrum modi dolores distinctio nihil quaerat assumenda iusto. Sint nemo officiis dolore magnam, tempora consequatur doloribus adipisci, debitis accusamus aspernatur in ipsum esse, ullam vitae! Ipsum eos sed est voluptatem assumenda sit! Hic asperiores deleniti, saepe enim in vel alias? Minus ratione molestias voluptatum consectetur!",
+      "id": 8
+    },
+    {
+      "title": "Using Staradmin for the Website",
+      "comments": "1331",
+      "date": "2021-03-30",
+      "description": " title: form.title.value,\n      comments: form.comment.value,\n      date: form.date.value,\n      description: form.description.value,",
+      "id": 10
+    }
+  ],
+  "polls": [
+    {
+      "id": 1,
+      "question": "Do you prefer Vue Or React",
+      "answerA": "Vue",
+      "answerB": "React"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "description": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
